@@ -1,0 +1,5 @@
+{
+  "name": "VigilX",
+  "description": "AI-powered civic noise enforcement platform for real-time reporting and monitoring.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
